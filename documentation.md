@@ -10,7 +10,9 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 - **Live Chat:** Allows instant interaction between blogger and readers.
 - **Content Rating:** Readers can rate articles and comments.
 
+# Installation Guide.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwNzEyNjU0LC0xNzIyMDc2MjU2LDE2Mz
-g2MDk3MjBdfQ==
+eyJoaXN0b3J5IjpbLTUwNzgyMjUxNywtMTcyMjA3NjI1NiwxNj
+M4NjA5NzIwXX0=
 -->
