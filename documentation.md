@@ -9,6 +9,8 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 - **Content personalization:** The reader can personalize the reading experience by subscribing to certain topics or following specific writers.
 - **Live Chat:** Allows instant interaction between blogger and readers.
 - **Content Rating:** Readers can rate articles and comments.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjIwNzYyNTYsMTYzODYwOTcyMF19
+eyJoaXN0b3J5IjpbNjgwNzEyNjU0LC0xNzIyMDc2MjU2LDE2Mz
+g2MDk3MjBdfQ==
 -->
