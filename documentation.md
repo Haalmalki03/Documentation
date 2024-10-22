@@ -11,8 +11,10 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 - **Content Rating:** Readers can rate articles and comments.
 
 # Installation Guide.
-
+1. Choose the right operating system.
+2. For windows Press The  Download  Button.
+3. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzgyMjUxNywtMTcyMjA3NjI1NiwxNj
-M4NjA5NzIwXX0=
+eyJoaXN0b3J5IjpbMTE5NjI0NjQ4NSwtNTA3ODIyNTE3LC0xNz
+IyMDc2MjU2LDE2Mzg2MDk3MjBdfQ==
 -->
