@@ -8,5 +8,5 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 - **Interactive Maps:** Display geographic data interactively.
 - **Content personalization:** The reader can personalize the reading experience by subscribing to certain topics or following specific writers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzODYwOTcyMCwxNzgzMDkzNDIyXX0=
+eyJoaXN0b3J5IjpbMTYzODYwOTcyMF19
 -->
