@@ -54,16 +54,16 @@ JSON
 ## Troubleshooting
 - **Issue:** iBlog is not launching.
 
-  -   **Solution:** Ensure you have the latest system requirements and try reinstalling.
+  -   **Solution:** Ensure you have the latest system requirements and try reinstalling.:white_check_mark:
 - **Issue:** iBlog not showing.
 
    -   **Solution:** Check your internet connection and try restarting iBlog. 
-- **Issue:** Unable to access collaboration features.
+- **Issue:** Unable to access collaboration features.:white_check_mark:
   - **Solution:** Verify your account settings and ensure you have the necessary permissions.
  - **Issue:** Unable to install iBlog on Windows.
-   - **Solution:** Ensure you have administrator privileges, and try running the installer in compatibility.
+   - **Solution:** Ensure you have administrator privileges, and try running the installer in compatibility.:white_check_mark:
   - **Issue:** iBlog app crashes on launch.
-    - **Solution:** Try restarting your computer. If the issue continues, verify that your system meets the minimum requirements. You can also try reinstalling the app.
+    - **Solution:** Try restarting your computer. If the issue continues, verify that your system meets the minimum requirements. You can also try reinstalling the app.:white_check_mark:
 
  ##  Advanced Usage
 ### scripting 
@@ -87,5 +87,5 @@ Python
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTM3NzY4OF19
+eyJoaXN0b3J5IjpbMTI0NTg1MTAyMCwxNTc1Mzc3Njg4XX0=
 -->
