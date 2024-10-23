@@ -60,10 +60,12 @@ JSON
    -   **Solution:** Check your internet connection and try restarting iBlog. 
 - **Issue:** Unable to access collaboration features.
   - **Solution:** Verify your account settings and ensure you have the necessary permissions.
-  - **Problem:** Unable to install Chronos on Windows.
+ - **Issue:** Unable to install Chronos on Windows.
+   - **Solution:** Ensure you have administrator privileges, and try running the installer in compatibility.
+   - **Problem:** Chronos app crashes on launch.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTkwMTA2OSwtNDg2ODI1MjczLC01ND
+eyJoaXN0b3J5IjpbMTQ2Njk2MDM1NCwtNDg2ODI1MjczLC01ND
 M3MDAxNjRdfQ==
 -->
