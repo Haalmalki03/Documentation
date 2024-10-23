@@ -64,9 +64,13 @@ JSON
    - **Solution:** Ensure you have administrator privileges, and try running the installer in compatibility.
   - **Issue:** iBlog app crashes on launch.
     - **Solution:** Try restarting your computer. If the issue continues, verify that your system meets the minimum requirements. You can also try reinstalling the app.
+
+ ##  Advanced Usage
+# s
+ 
     
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODAwNTAwNzcsNDgyOTU2MzM5XX0=
+eyJoaXN0b3J5IjpbLTczODA0MzQyOCw0ODI5NTYzMzldfQ==
 -->
