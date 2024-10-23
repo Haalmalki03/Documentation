@@ -37,13 +37,14 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 
 | Feature |  Description|
 |--|--|
-|  |  |
-|--|--|
-|  |  |
+|  Shared Projects|  Collaborate with team members on the same projects.|
+|Task Assignments|Assign tasks to team members and track progress.|
+| Communication Tools |Chat, share files, and collaborate in real-time.  |
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMjkzNjc5NSwtMTY4NTg4MDUxMSwxOD
-c2MDg3NDc2XX0=
+eyJoaXN0b3J5IjpbLTE4MDQ4MDgwMTddfQ==
 -->
