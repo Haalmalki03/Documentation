@@ -67,14 +67,16 @@ JSON
 
  ##  Advanced Usage
 ### scripting 
+Python
  `import iBlog`
  `#Create a new post`
  `Post = iBlog_create_post`
 
-#
+`#Delete Post`
+`Post = iBlog_delete_post`
     
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg2MDI0MzMsNDgyOTU2MzM5XX0=
+eyJoaXN0b3J5IjpbMzA2MTgxOTM1LDQ4Mjk1NjMzOV19
 -->
