@@ -43,13 +43,14 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 
 ### Posting
 
+JSON
+
+`
 {
   "AddPost": "Welcome to iBlog",
-  "Description": "15 hours"
-  "completed_tasks": 5
-  "overdue_tasks": 2
-}
+  "Description": "My All links here:"
+}`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2MzU5MzY2OSwtOTU5MDA4NjI2XX0=
+eyJoaXN0b3J5IjpbMjMzOTU4NDQwXX0=
 -->
