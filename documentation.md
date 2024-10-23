@@ -44,13 +44,12 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 ### Posting
 `
 {
-  "project_name": "Marketing Campaign"
-  
-  "total_time": "15 hours"
-  "completed_tasks": 5
+  "project_name": "Marketing Campaign",
+   "total_time": "15 hours",
+  "completed_tasks": 5,
   "overdue_tasks": 2
-} `
-
+}
+`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY4ODM5NzAzLC05NTkwMDg2MjZdfQ==
+eyJoaXN0b3J5IjpbMjg4NzI4NDkzLC05NTkwMDg2MjZdfQ==
 -->
