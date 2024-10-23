@@ -19,9 +19,9 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 
 - Creating a Blog: press on **Crete new post**.
 - Editing a Blog: You can edit your Blog in specific time, press **Edit post** button.
-- 
+- comment: You can share your opinion  by 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NTgxMzM1MV19
+eyJoaXN0b3J5IjpbMTE4OTI3MDEwOCwtOTQ1ODEzMzUxXX0=
 -->
