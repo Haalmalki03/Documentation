@@ -55,12 +55,12 @@ JSON
 - **Issue:** iBlog is not launching.
 
   -   **Solution:** Ensure you have the latest system requirements and try reinstalling.
-- **Issue:** Blogs not showing.
+- **Issue:** iBlog not showing.
 
    -   **Solution:** Check your internet connection and try restarting iBlog. 
 - **Issue:** Unable to access collaboration features.
   - **Solution:** Verify your account settings and ensure you have the necessary permissions.
- - **Issue:** Unable to install Chronos on Windows.
+ - **Issue:** Unable to install iBlog on Windows.
    - **Solution:** Ensure you have administrator privileges, and try running the installer in compatibility.
   - **Issue:** iBlog app crashes on launch.
     - **Solution:** Try restarting your computer. If the issue continues, verify that your system meets the minimum requirements. You can also try reinstalling the app.
@@ -68,5 +68,5 @@ JSON
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NzYwNTI2LDQ4Mjk1NjMzOV19
+eyJoaXN0b3J5IjpbLTE2ODAwNTAwNzcsNDgyOTU2MzM5XX0=
 -->
