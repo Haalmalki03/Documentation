@@ -57,8 +57,9 @@ JSON
   -   **Solution:** Ensure you have the latest system requirements and try reinstalling.
 - **Issue:** Blogs not showing.
 
--   **Solution:** Check your internet connection and try restarting ه. 
+-   **Solution:** Check your internet connection and try restarting iBlog. 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MzUwOTQ5MCwyMzM5NTg0NDBdfQ==
+eyJoaXN0b3J5IjpbLTU0MzcwMDE2NF19
 -->
