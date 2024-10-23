@@ -66,11 +66,12 @@ JSON
     - **Solution:** Try restarting your computer. If the issue continues, verify that your system meets the minimum requirements. You can also try reinstalling the app.
 
  ##  Advanced Usage
-# s
+### scripting 
+ `import iBlog`
  
     
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODA0MzQyOCw0ODI5NTYzMzldfQ==
+eyJoaXN0b3J5IjpbNzg0NjEyODYyLDQ4Mjk1NjMzOV19
 -->
