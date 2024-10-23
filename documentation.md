@@ -15,7 +15,16 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 2. For windows Press The  Download  Button.
 - For **_MacOS & Linux_**: open command manager then write that: `sudddo apt install iBlog iBlog-core`
 
+# User Guide.
+
+- Creating a Blog: press on **Crete new post**.
+- 
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NTc0NTUzNSwtODE1ODM1MjI5XX0=
+eyJoaXN0b3J5IjpbMjExOTA5NDU2MiwxNDc1NzQ1NTM1LC04MT
+U4MzUyMjldfQ==
 -->
