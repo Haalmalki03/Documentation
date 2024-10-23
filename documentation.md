@@ -77,11 +77,14 @@ Python
 
 ### Integrations
 
-|Application|Description|Link|
-|---|
-    
+
+   |   Application| Description  |  Link |
+|---|---|---|---|
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3NzQ3ODYsMzA2MTgxOTM1XX0=
+eyJoaXN0b3J5IjpbLTE2MTgwNjAwMTUsMzA2MTgxOTM1XX0=
 -->
