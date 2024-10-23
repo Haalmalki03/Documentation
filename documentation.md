@@ -79,11 +79,11 @@ Python
 
 
    |   Application| Description  |  Link |
-|---|---|---|---|
+|---|---|---|
 |  Google Calendar | Calendar and scheduling tool  | https://calendar.google.com/  |
 |  Slack |   Communication platform| https://slack.com/  |
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5Nzc4MjQ3NV19
+eyJoaXN0b3J5IjpbLTQwODA1MzQ0Nl19
 -->
