@@ -57,9 +57,12 @@ JSON
   -   **Solution:** Ensure you have the latest system requirements and try reinstalling.
 - **Issue:** Blogs not showing.
 
--   **Solution:** Check your internet connection and try restarting iBlog. 
+   -   **Solution:** Check your internet connection and try restarting iBlog. 
+- **Issue:** Unable to access collaboration features.
+  - **Solution:** Verify your account settings and ensure you have the necessary permissions.
+  - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MzcwMDE2NF19
+eyJoaXN0b3J5IjpbLTQ4NjgyNTI3MywtNTQzNzAwMTY0XX0=
 -->
