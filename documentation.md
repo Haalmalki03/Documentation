@@ -74,9 +74,11 @@ Python
 
 `#Delete Post`
 `Post = iBlog_delete_post`
+
+
     
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MTgxOTM1XX0=
+eyJoaXN0b3J5IjpbMzk1MTUyNzUsMzA2MTgxOTM1XX0=
 -->
