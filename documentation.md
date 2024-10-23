@@ -22,9 +22,18 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 - comment: You can **share your opinion  by comment**.
 - Advanced Search: Use **advanced search options** to find precisely defined content.
 - Browse by Categories: Browse articles by the **categories you are interested in**.
-- 
+- FAQ: 
+   How do I delete my account?
+
+   How do I change my password?
+
+   What do I do if I forgot my password?
+
+   How do I report an inappropriate comment?
+   
+   -
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2ODM0NTY2LC05MzQzMDU3ODRdfQ==
+eyJoaXN0b3J5IjpbLTEzMDgwNDAwMywtOTM0MzA1Nzg0XX0=
 -->
