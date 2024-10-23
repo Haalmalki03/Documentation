@@ -78,14 +78,16 @@ Python
 ### Integrations
 
 
-   |   Application| Description  |  Link |
-|---|---|---|
+   |   Application|  Description  |  |Link |
+|---|---|-|--|
 |  Google Calendar | Calendar and scheduling tool  | https://calendar.google.com/  |
-|  Slack |   Communication platform| https://slack.com/  |
+|  Slack |   Communication platform| https://slack.com/   Share your knowledge and experience with others.|--|
+|User Success Stories|Explore how users achieved their goals with iBlog.|--|
+| Communication Tools |Chat, share files, and collaborate in real-time.  |--|
 
 
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTg1MTAyMF19
+eyJoaXN0b3J5IjpbLTc1NTM1MjY4MywxMjQ1ODUxMDIwXX0=
 -->
