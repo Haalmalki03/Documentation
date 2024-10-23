@@ -35,6 +35,8 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 
  ### Collaboration:
 
+| Feature |  Description|
+|--|--|
 |  |  |
 |--|--|
 |  |  |
@@ -42,6 +44,6 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NDc1NTYyNSwtMTY4NTg4MDUxMSwxOD
+eyJoaXN0b3J5IjpbLTcyMjkzNjc5NSwtMTY4NTg4MDUxMSwxOD
 c2MDg3NDc2XX0=
 -->
