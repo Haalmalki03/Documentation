@@ -68,10 +68,13 @@ JSON
  ##  Advanced Usage
 ### scripting 
  `import iBlog`
- 
+ `#Create a new post`
+ `Post = iBlog_create_post`
+
+#
     
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg0NjEyODYyLDQ4Mjk1NjMzOV19
+eyJoaXN0b3J5IjpbOTg2MDI0MzMsNDgyOTU2MzM5XX0=
 -->
