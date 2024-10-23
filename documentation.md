@@ -82,8 +82,10 @@ Python
 |---|---|---|
 |  Google Calendar | Calendar and scheduling tool  | https://calendar.google.com/  |
 |  Slack |   Communication platform| https://slack.com/  |
+
+
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODA1MzQ0Nl19
+eyJoaXN0b3J5IjpbLTE2NzU3NjE4OTgsLTQwODA1MzQ0Nl19
 -->
