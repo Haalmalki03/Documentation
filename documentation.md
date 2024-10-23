@@ -41,18 +41,16 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 |User Success Stories|Explore how users achieved their goals with iBlog.|
 | Communication Tools |Chat, share files, and collaborate in real-time.  |
 
-## {
-  "project_name": "Marketing Campaign",
-  "total_time": "15 hours",
-  "completed_tasks": 5,
+### Posting
+`
+{
+  "project_name": "Marketing Campaign"
+  
+  "total_time": "15 hours"
+  "completed_tasks": 5
   "overdue_tasks": 2
-}
-
-
-
-
-
+} `
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODY0ODM3NiwtOTU5MDA4NjI2XX0=
+eyJoaXN0b3J5IjpbMzY4ODM5NzAzLC05NTkwMDg2MjZdfQ==
 -->
