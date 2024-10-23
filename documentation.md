@@ -62,10 +62,11 @@ JSON
   - **Solution:** Verify your account settings and ensure you have the necessary permissions.
  - **Issue:** Unable to install Chronos on Windows.
    - **Solution:** Ensure you have administrator privileges, and try running the installer in compatibility.
-   - **Problem:** Chronos app crashes on launch.
-
+  - **Issue:** Chronos app crashes on launch.
+    - **Solution:** Try restarting your computer. If the issue continues, verify that your system meets the minimum requirements. You can also try reinstalling the app.
+    
+    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Njk2MDM1NCwtNDg2ODI1MjczLC01ND
-M3MDAxNjRdfQ==
+eyJoaXN0b3J5IjpbNDgyOTU2MzM5XX0=
 -->
