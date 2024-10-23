@@ -31,9 +31,10 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 
    How do I report an inappropriate comment?
    
-   -
+- Contact us: If you have any questions or encounter any problems, please feel free to contact us via the **Contact Us page**.
+- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDgwNDAwMywtOTM0MzA1Nzg0XX0=
+eyJoaXN0b3J5IjpbLTMxNDA3MjExNCwtOTM0MzA1Nzg0XX0=
 -->
