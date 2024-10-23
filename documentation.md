@@ -81,13 +81,12 @@ Python
    |   Application|  Description  |  |Link |
 |---|---|-|--|
 |  Google Calendar | Calendar and scheduling tool  | https://calendar.google.com/  |
-|  Slack |   Communication platform| https://slack.com/   Share your knowledge and experience with others.|--|
-|User Success Stories|Explore how users achieved their goals with iBlog.|--|
-| Communication Tools |Chat, share files, and collaborate in real-time.  |--|
+|  Slack |   Communication platform| https://slack.com/   Share your knowledge and experience with others.
+
 
 
     
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTM1MjY4MywxMjQ1ODUxMDIwXX0=
+eyJoaXN0b3J5IjpbLTExODkyNDMxODYsMTI0NTg1MTAyMF19
 -->
