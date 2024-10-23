@@ -19,9 +19,7 @@ Interactive Blog (iBlog) It is a legacy blog that is developed using programming
 
 - Creating a Blog: press on **Crete new post**.
 
- 
-
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTgzMzU4MSwyMTE5MDk0NTYyXX0=
+eyJoaXN0b3J5IjpbODgxOTkzNjI5LDIxMTkwOTQ1NjJdfQ==
 -->
