@@ -54,7 +54,7 @@ JSON
 ## Troubleshooting
 - **Issue:** iBlog is not launching.
 
-  -   **Solution:** Ensure you have the latest system requirements and try reinstalling.:white_check_mark:
+  -   **Solution:** Ensure you have the latest system requirements and try reinstalling. :white_check_mark:
 - **Issue:** iBlog not showing.
 
    -   **Solution:** Check your internet connection and try restarting iBlog. :white_check_mark:
@@ -89,5 +89,5 @@ https://stackoverflow.com/
 https://www.markdownguide.org/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NzI5NjQ5NV19
+eyJoaXN0b3J5IjpbMzk2NTA2OTc3XX0=
 -->
