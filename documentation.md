@@ -57,7 +57,7 @@ JSON
   -   **Solution:** Ensure you have the latest system requirements and try reinstalling.:white_check_mark:
 - **Issue:** iBlog not showing.
 
-   -   **Solution:** Check your internet connection and try restarting iBlog. 
+   -   **Solution:** Check your internet connection and try restarting iBlog. :white_check_mark:
 - **Issue:** Unable to access collaboration features. :white_check_mark:
   - **Solution:** Verify your account settings and ensure you have the necessary permissions. :white_check_mark:
  - **Issue:** Unable to install iBlog on Windows.
@@ -89,5 +89,5 @@ https://stackoverflow.com/
 https://www.markdownguide.org/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTg3OTczM119
+eyJoaXN0b3J5IjpbMTY2NzI5NjQ5NSwyMTQxODc5NzMzXX0=
 -->
