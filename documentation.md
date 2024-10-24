@@ -84,7 +84,9 @@ Python
 |  Slack |   Communication platform| https://slack.com/   Share your knowledge and experience with others.
 
 ### Footnotes 
+https://stackoverflow.com/
+https://www.markdownguide.org/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzczNDE2LC0yOTIyNDM0ODBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODc4Mjk5MDMsLTI5MjI0MzQ4MF19
 -->
