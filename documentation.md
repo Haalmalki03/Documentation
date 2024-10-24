@@ -85,8 +85,9 @@ Python
 
 ### Footnotes 
 https://stackoverflow.com/
+
 https://www.markdownguide.org/
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODc4Mjk5MDNdfQ==
+eyJoaXN0b3J5IjpbLTg5NTQyMjYyNV19
 -->
